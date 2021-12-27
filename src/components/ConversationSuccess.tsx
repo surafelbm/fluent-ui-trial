@@ -85,7 +85,7 @@ const styles = StyleSheet.create({
     bottom: 0,
     left: 0,
     zIndex: -1,
-    elevation: -1,
+    elevation: 0,
   },
   audioWave: {
     width: '80%',

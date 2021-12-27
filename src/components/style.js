@@ -59,6 +59,7 @@ const ConversationResponseContainer = styled.View`
   align-self: center;
   padding: 40px 0px;
   border-radius: 15px;
+  elevation: 1;
 `;
 const MicButton = styled.TouchableOpacity`
   width: 60px;
